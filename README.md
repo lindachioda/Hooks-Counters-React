@@ -12,8 +12,6 @@
 
 # React Hooks – 🕝 Counter Practice
 
-## 📌 About the Project
-
 This project was created to practice and understand three essential React Hooks: `useState`, `useEffect`, and `useReducer`.
 Each hook is demonstrated through a different counter, highlighting its main features and use cases.
 

@@ -4,11 +4,11 @@
 
 ## 🛠️ Tecnologie Utilizzate
 
-- * React
-- * TypeScript
-- * Vite
-- * HTML5
-- * CSS3
+-  React
+-  TypeScript
+-  Vite
+-  HTML5
+-  CSS3
 
 # React Hooks – 🕝 Counter Practice
 
